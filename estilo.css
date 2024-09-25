@@ -13,8 +13,7 @@ ul{
     padding: 0;
     overflow: hidden;
     text-align: center;
-    padding: 0px 30px;
-    justify-content: center;
+    padding: 0px 500px;
 }
 li{
     float: left;
@@ -30,7 +29,7 @@ li a:hover{
 }
 img {
     text-align: center;
-    padding: 0px 160px;
+    padding: 0px 630px;
     text-decoration: none;
     justify-content: center;
 }
